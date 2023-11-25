@@ -10,4 +10,5 @@ dependencies:
   - ipywidgets
   - bqplot
   - ipyleaflet
+  - ipyevents
   - plotly
